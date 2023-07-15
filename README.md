@@ -38,13 +38,13 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/GabsOrtega/CRUD-Laravel.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd CRUD-Laravel
 ```
 
 Instale as dependências

@@ -24,6 +24,7 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 `DB_PORT`
 
 * Nesse projeto foi utilizado o banco de dados MySQL, mas caso queira utilizar outro fique a seu critério.
+* Para mais informações da criação do arquivo .env, olhe o arquivo de exemplo deixado no projeto.
 
 
 ## Stack utilizada
